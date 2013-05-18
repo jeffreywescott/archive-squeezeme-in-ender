@@ -1,0 +1,21 @@
+{
+  "name": "squeezeme-in",
+  "version": "0.1.0",
+  "description": "squeezeme.in web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/binaryfeed/squeezeme-in.git",
+  "author": "Jeffrey Wescott",
+  "dependencies": {
+    "express": "3.2.3",
+    "socket.io": "0.9.14"
+  },
+  "license": "Copyrighted / All Rights Reserved",
+  "subdomain": "squeezeme-in",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
