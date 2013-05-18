@@ -1,0 +1,14 @@
+{
+  "name": "squeezeme-in-widget",
+  "version": "0.1.0",
+  "description": "squeezeme.in widget",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/binaryfeed/squeezeme-in-widget.git",
+  "author": "Jeffrey Wescott",
+  "dependencies": {
+  },
+  "license": "Copyrighted / All Rights Reserved",
+  "main": "./widget.js"
+}
