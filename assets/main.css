@@ -1,0 +1,12 @@
+body {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#calendar {
+  width: 700px;
+  height: 600;
+  margin: 0 auto;
+}
